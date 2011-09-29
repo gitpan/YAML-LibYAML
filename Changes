@@ -1,4 +1,17 @@
 ---
+version: 0.37
+date:    Thu Sep 29 20:09:20 CEST 2011
+changes:
+- Fix the bug that accidentally released YAML-XS instead of YAML-LibYAML.
+- Released from Wendy++ and Liz++'s Guest Bedroom.
+---
+version: 0.36
+date:    Sun Sep 25 22:08:53 CEST 2011
+changes:
+- Switch to Module::Package
+- Fix LoadFile on empty file failure.
+- Released from Wendy++ and Liz++'s Basement Server Room.
+---
 version: 0.35
 date:    Mon Apr  4 00:33:09 CST 2011
 changes:
